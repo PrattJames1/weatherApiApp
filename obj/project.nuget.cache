@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "O0+OcUvgI6c=",
+  "dgSpecHash": "W1g780cu3Lk=",
   "success": true,
   "projectFilePath": "/Users/fluke/Documents/Documents/Code/TodoApi/TodoApi.csproj",
   "expectedPackageFiles": [
     "/Users/fluke/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/fluke/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
+    "/Users/fluke/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
     "/Users/fluke/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/fluke/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/fluke/.nuget/packages/humanizer.core.af/2.14.1/humanizer.core.af.2.14.1.nupkg.sha512",
